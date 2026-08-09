@@ -91,12 +91,7 @@ I enjoy **0 → 1** development: independently shipping MVPs, and working effect
 ## `04` ACTIVITY
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=xsopunk&show_icons=true&hide_border=true&bg_color=000000&title_color=F5332C&icon_color=F5332C&text_color=CCCCC8&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsopunk&layout=compact&hide_border=true&bg_color=000000&title_color=F5332C&text_color=CCCCC8&langs_count=8"/>
-
-<br/>
-
+  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xsopunk&hide_border=true&background=000000&stroke=F5332C&ring=F5332C&fire=F5332C&currStreakLabel=CCCCC8&sideLabels=CCCCC8&dates=CCCCC8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="60%"/>
 
 </div>
