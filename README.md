@@ -87,6 +87,7 @@ I'm a product-oriented software engineer and applied AI builder based in Hyderab
 | **QR Menu Ordering** | **Sub-2s Mobile Digital Ordering**<br/>Mobile-first digital ordering system optimized for sub-2-second initial loads via route code-splitting. | `TypeScript` `React`<br/>`Tailwind` | [Code](https://github.com/xsopunk/qr_menu_ordering_system) |
 | **CRM Studio** | **Modular AI-CRM UI Library**<br/>Frontend for an AI-powered CRM — 14+ component shared UI library replacing one-off implementations. | `TypeScript` `React`<br/>`Component Architecture` | [Code](https://github.com/xsopunk/crm_frontend_and_Studio) |
 | **Chemical Visualizer** | **Python Data Visualizer**<br/>Interactive visualization tool for molecular structure representation and quantitative metrics. | `Python` `Data Viz` | [Code](https://github.com/xsopunk/chemical_visualizer) |
+| **Conversational Health Journal AI** | **Conversational Health Journal AI**<br/>AI-powered wellness journal extracting structured biometric events from natural text and meal photos with personalized personas. | `TypeScript` `React` `Gemini AI` `Express` | [Code](https://github.com/xsopunk/conversational-health-journal-ai) |
 
 <br/>
 
