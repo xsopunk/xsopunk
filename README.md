@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=G.%20SAGAR%20KUMAR&fontSize=42&fontColor=F5332C&fontAlignY=55&desc=PRODUCT-ORIENTED%20SOFTWARE%20ENGINEER&descAlignY=75&descColor=CCCCC8&descSize=16" width="100%"/>
+<img src="banner.png" width="100%"/>
 
 ![](https://img.shields.io/badge/-●_AVAILABLE_FOR_WORK-000000?style=flat-square&labelColor=000000&color=F5332C)
 &nbsp;
