@@ -2,7 +2,6 @@
 
 <img src="banner.png" width="100%"/>
 <br/>
-
 <br/>
 
 ![](https://img.shields.io/badge/-●_AVAILABLE_FOR_WORK-000000?style=for-the-badge&labelColor=000000&color=F5332C)
@@ -14,7 +13,7 @@
 <br/>
 
 ### **Frontend → Backend → LLM Systems.**
-*I build the thing, not just the demo.*
+*"Beyond code, there’s human ingenuity."*
 
 </div>
 
@@ -28,7 +27,7 @@ I'm a product-oriented software engineer and applied AI builder based in Hyderab
 
 - 🎯 **Focus:** 0 → 1 development, rapid prototyping, UX-driven systems, and agentic LLM workflows.
 - 🎓 **Education:** B.Tech CSE, VJIT — Class of 2027.
-- 💡 **Philosophy:** Building software that works well for both the underlying infrastructure and the human using it.
+- 💡 **Philosophy:** Building software that makes sense to both machines and humans— because great engineering goes beyond code.
 
 <br/>
 
@@ -97,11 +96,7 @@ I'm a product-oriented software engineer and applied AI builder based in Hyderab
 ## `04` GITHUB ANALYTICS
 
 <div align="center">
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xsopunk&theme=dark" />
-&nbsp;
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xsopunk&theme=dark" />
-
+  
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xsopunk&hide_border=true&background=000000&stroke=F5332C&ring=F5332C&fire=F5332C&currStreakLabel=CCCCC8&sideLabels=CCCCC8&dates=CCCCC8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%"/>
