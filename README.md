@@ -78,13 +78,11 @@ I enjoy **0 → 1** development: independently shipping MVPs, and working effect
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Nexus AI](https://github.com/xsopunk/XSO_001-PromptKakusei)** — Financial Intelligence Platform | Real-time news → structured investment signal. Hybrid LLM + lexicon sentiment engine flags hallucinated conclusions before they reach the user. | `React` `FastAPI` `LangGraph` `Groq` `ChromaDB` |
+| **[Nexus AI](https://github.com/xsopunk/nexus)** — Financial Intelligence Platform | Real-time news → structured investment signal. Hybrid LLM + lexicon sentiment engine flags hallucinated conclusions before they reach the user. | `React` `FastAPI` `LangGraph` `Groq` `ChromaDB` |
 | **[Prompt Kakusei](https://github.com/xsopunk/XSO_001-PromptKakusei)** — Prompt Optimization Platform | 4-stage LLM pipeline (Deconstruct → Diagnose → Develop → Deliver) exposed as independent, reusable REST endpoints. | `Next.js` `TypeScript` `FastAPI` `LangChain` |
 | **[QR Menu Ordering System](https://github.com/xsopunk/qr_menu_ordering_system)** | Mobile-first digital ordering system built for sub-2-second initial loads via route code-splitting. | `TypeScript` `React` |
 | **[CRM Frontend & Studio](https://github.com/xsopunk/crm_frontend_and_Studio)** | Frontend for an AI-powered CRM — 14+ component shared UI library replacing one-off implementations. | `TypeScript` `React` |
 | **[Chemical Visualizer](https://github.com/xsopunk/chemical_visualizer)** | Python-based visualization tool. | `Python` |
-
-<sub>Note: verify the Nexus AI repo link once pushed — it currently points to the same repo as Prompt Kakusei; update if they're separate.</sub>
 
 <br/>
 
@@ -94,8 +92,8 @@ I enjoy **0 → 1** development: independently shipping MVPs, and working effect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xsopunk&show_icons=true&hide_border=true&bg_color=000000&title_color=F5332C&icon_color=F5332C&text_color=CCCCC8" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsopunk&layout=compact&hide_border=true&bg_color=000000&title_color=F5332C&text_color=CCCCC8" width="33%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=xsopunk&show_icons=true&hide_border=true&bg_color=000000&title_color=F5332C&icon_color=F5332C&text_color=CCCCC8&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsopunk&layout=compact&hide_border=true&bg_color=000000&title_color=F5332C&text_color=CCCCC8&langs_count=8"/>
 
 <br/>
 
