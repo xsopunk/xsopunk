@@ -27,7 +27,7 @@ I'm a product-oriented software engineer and applied AI builder based in Hyderab
 
 - 🎯 **Focus:** 0 → 1 development, rapid prototyping, UX-driven systems, and agentic LLM workflows.
 - 🎓 **Education:** B.Tech CSE, VJIT — Class of 2027.
-- 💡 **Philosophy:** Building software that makes sense to both machines and humans— because great engineering goes beyond code.
+- 💡 **Philosophy:** Building software that makes sense to both machines and humans— because great engineering goes beyond coding.
 
 <br/>
 
